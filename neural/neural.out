@@ -1,0 +1,30 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Categories and groups }{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Equivariance}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Tensors}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{GDL blueprint \( with input domain fixed \) }{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Discussion}{section.1}% 6
+\BOOKMARK [1][-]{section.2}{Geometric deep learning models}{}% 7
+\BOOKMARK [2][-]{subsection.2.1}{Learning with scalar-signals on a cyclic group}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.2}{A simple CNN}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.3}{Implementation in TensorFlow keras}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.4}{Convolutional neural networks}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.5}{Group-equivariant CNNs}{section.2}% 12
+\BOOKMARK [1][-]{section.3}{Fourier analysis on groups}{}% 13
+\BOOKMARK [2][-]{subsection.3.1}{Fourier analysis on a cyclic group}{section.3}% 14
+\BOOKMARK [1][-]{section.4}{Geometric objects}{}% 15
+\BOOKMARK [2][-]{subsection.4.1}{Riemannian manifolds}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.2}{Scalar and vector fields}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.3}{Parallel transport}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.4}{Spectral methods}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.5}{Gauges and bundles}{section.4}% 20
+\BOOKMARK [2][-]{subsection.4.6}{Geometric graphs and meshes}{section.4}% 21
+\BOOKMARK [1][-]{section.5}{Learning in high dimensions}{}% 22
+\BOOKMARK [2][-]{subsection.5.1}{Inductive bias via function regularity}{section.5}% 23
+\BOOKMARK [2][-]{subsection.5.2}{The curse of dimensionality}{section.5}% 24
+\BOOKMARK [2][-]{subsection.5.3}{Geometric priors}{section.5}% 25
+\BOOKMARK [2][-]{subsection.5.4}{Deformation stability}{section.5}% 26
+\BOOKMARK [2][-]{subsection.5.5}{Scale separation}{section.5}% 27
+\BOOKMARK [2][-]{subsection.5.6}{The blueprint of geometric deep learning}{section.5}% 28
+\BOOKMARK [1][-]{appendix.A}{Appendix}{}% 29
+\BOOKMARK [2][-]{subsection.A.1}{On sets and categories}{appendix.A}% 30

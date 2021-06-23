@@ -1,0 +1,161 @@
+\begin{thebibliography}{10}
+
+\bibitem{AT}
+R.~J. Adler and J.~E. Taylor.
+\newblock {\em Random fields and geometry}.
+\newblock Springer Monographs in Mathematics. Springer, New York, 2007.
+
+\bibitem{akemann2015oxford}
+G.~Akemann, J.~Baik, and P.~Di~Francesco, editors.
+\newblock {\em The {O}xford handbook of random matrix theory}.
+\newblock Oxford University Press, Oxford, 2015.
+\newblock Paperback edition of the 2011 original [ MR2920518].
+
+\bibitem{arguin2015poisson}
+L.-P. Arguin, O.~Zindy, et~al.
+\newblock Poisson-dirichlet statistics for the extremes of the two-dimensional
+  discrete gaussian free field.
+\newblock {\em Electronic Journal of Probability}, 20, 2015.
+
+\bibitem{auffinger2013random}
+A.~Auffinger, G.~Ben~Arous, and J.~\v{C}ern\'{y}.
+\newblock Random matrices and complexity of spin glasses.
+\newblock {\em Comm. Pure Appl. Math.}, 66(2):165--201, 2013.
+
+\bibitem{bolthausen1998ruelle}
+E.~Bolthausen and A.-S. Sznitman.
+\newblock On {R}uelle's probability cascades and an abstract cavity method.
+\newblock {\em Comm. Math. Phys.}, 197(2):247--276, 1998.
+
+\bibitem{boucheron2013concentration}
+S.~Boucheron, G.~Lugosi, and P.~Massart.
+\newblock {\em Concentration inequalities}.
+\newblock Oxford University Press, Oxford, 2013.
+\newblock A nonasymptotic theory of independence, With a foreword by Michel
+  Ledoux.
+
+\bibitem{bovier2006statistical}
+A.~Bovier.
+\newblock {\em Statistical mechanics of disordered systems}, volume~18 of {\em
+  Cambridge Series in Statistical and Probabilistic Mathematics}.
+\newblock Cambridge University Press, Cambridge, 2006.
+\newblock A mathematical perspective.
+
+\bibitem{BBCV21}
+M.~M. Bronstein, J.~Bruna, T.~Cohen, and P.~Veli{\v c}kovi{\'c}.
+\newblock Geometric deep learning: Grids, groups, graphs, geodesics, and
+  gauges.
+\newblock 04 2021.
+
+\bibitem{carmona2002partition}
+P.~Carmona and Y.~Hu.
+\newblock On the partition function of a directed polymer in a {G}aussian
+  random environment.
+\newblock {\em Probab. Theory Related Fields}, 124(3):431--457, 2002.
+
+\bibitem{daviaud2006extremes}
+O.~Daviaud et~al.
+\newblock Extremes of the discrete two-dimensional gaussian free field.
+\newblock {\em the Annals of Probability}, 34(3):962--986, 2006.
+
+\bibitem{dembo1998large}
+A.~Dembo and O.~Zeitouni.
+\newblock {\em Large deviations techniques and applications}, volume~38 of {\em
+  Applications of Mathematics (New York)}.
+\newblock Springer-Verlag, New York, second edition, 1998.
+
+\bibitem{derrida1989dynamical}
+B.~Derrida.
+\newblock Dynamical phase transitions and spin glasses.
+\newblock {\em Physics Reports}, 184(2):207 -- 212, 1989.
+
+\bibitem{guerra2003broken}
+F.~Guerra.
+\newblock Broken replica symmetry bounds in the mean field spin glass model.
+\newblock {\em Comm. Math. Phys.}, 233(1):1--12, 2003.
+
+\bibitem{MacLane}
+S.~M. Lane.
+\newblock {\em Categories for the Working Mathematician}.
+\newblock [[Graduate Texts in Mathematics]]; Vol. 5. [[Springer-Verlag|Springer
+  Science+Business Media]], 1971.
+
+\bibitem{mehta2018book}
+P.~Mehta, M.~Bukov, C.-H. Wang, A.~G.~R. Day, C.~Richardson, C.~K. Fisher, and
+  D.~J. Schwab.
+\newblock A high-bias, low-variance introduction to machine learning for
+  physicists.
+
+\bibitem{mezard2009information}
+M.~M\'{e}zard and A.~Montanari.
+\newblock {\em Information, physics, and computation}.
+\newblock Oxford Graduate Texts. Oxford University Press, Oxford, 2009.
+
+\bibitem{mezard1987spin}
+M.~M\'{e}zard, G.~Parisi, and M.~A. Virasoro.
+\newblock {\em Spin glass theory and beyond}, volume~9 of {\em World Scientific
+  Lecture Notes in Physics}.
+\newblock World Scientific Publishing Co., Inc., Teaneck, NJ, 1987.
+
+\bibitem{panchenko2013sk}
+D.~Panchenko.
+\newblock {\em The {S}herrington-{K}irkpatrick model}.
+\newblock Springer Monographs in Mathematics. Springer, New York, 2013.
+
+\bibitem{parisi2002physical}
+G.~Parisi.
+\newblock The physical meaning of replica symmetry breaking.
+
+\bibitem{dominicis_book}
+R.~Podgornik.
+\newblock C. de dominicis and i. giardina: Random fields and spin glasses: a
+  field theory approach.
+\newblock {\em Journal of Statistical Physics}, 129(1):191--192, Aug 2007.
+
+\bibitem{ruder2019overview}
+S.~Ruder.
+\newblock An overview of gradient descent optimization algorithms.
+
+\bibitem{ruelle1987mathematical}
+D.~Ruelle.
+\newblock A mathematical reformulation of {D}errida's {REM} and {GREM}.
+\newblock {\em Comm. Math. Phys.}, 108(2):225--239, 1987.
+
+\bibitem{newman2013spin}
+D.~L. Stein and C.~M. Newman.
+\newblock {\em Spin glasses and complexity}.
+\newblock Primers in Complex Systems. Princeton University Press, Princeton,
+  NJ, 2013.
+
+\bibitem{subag2017complexity}
+E.~Subag.
+\newblock The complexity of spherical {$p$}-spin models---a second moment
+  approach.
+\newblock {\em Ann. Probab.}, 45(5):3385--3450, 2017.
+
+\bibitem{talagrand2006parisi}
+M.~Talagrand.
+\newblock The {P}arisi formula.
+\newblock {\em Ann. of Math. (2)}, 163(1):221--263, 2006.
+
+\bibitem{talagrand2010mean}
+M.~Talagrand.
+\newblock {\em Mean field models for spin glasses: Volume I: Basic examples},
+  volume~54.
+\newblock Springer Science \& Business Media, 2010.
+
+\bibitem{talagrand2}
+M.~Talagrand.
+\newblock {\em Mean field models for spin glasses. {V}olume {II}}, volume~55 of
+  {\em Ergebnisse der Mathematik und ihrer Grenzgebiete. 3. Folge. A Series of
+  Modern Surveys in Mathematics [Results in Mathematics and Related Areas. 3rd
+  Series. A Series of Modern Surveys in Mathematics]}.
+\newblock Springer, Heidelberg, 2011.
+\newblock Advanced replica-symmetry and low temperature.
+
+\bibitem{wolynes2015evolution}
+P.~G. Wolynes.
+\newblock Evolution, energy landscapes and the paradoxes of protein folding.
+\newblock {\em Biochimie}, 119:218--230, 2015.
+
+\end{thebibliography}
